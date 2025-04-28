@@ -1,0 +1,12 @@
+/Users/badal/Desktop/Cqrs/src/Core/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/badal/Desktop/Cqrs/src/Core/Domain/bin/Debug/net9.0/Domain.dll
+/Users/badal/Desktop/Cqrs/src/Core/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.dll
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/badal/Desktop/Cqrs/src/Core/Domain/obj/Debug/net9.0/ref/Domain.dll
